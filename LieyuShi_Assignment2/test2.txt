@@ -1,0 +1,5 @@
+A aa 1 5
+A ac 1.5 3
+B bb 2 3
+A cc 3 5
+B dd 4 2
