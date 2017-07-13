@@ -1,0 +1,8 @@
+total 160
+drwxr-xr-x   7 staff    238 Dec  7 16:10 .
+drwxr-xr-x  10 staff    340 Dec  7 15:49 ..
+-rw-r--r--@  1 staff   6148 Dec  7 15:49 .DS_Store
+-rw-r--r--   1 staff      0 Dec  7 16:10 listing
+-rwxr-xr-x   1 staff  49676 Dec  7 16:10 main
+-rw-r--r--   1 staff  16189 Dec  7 14:29 main.cpp
+-rw-r--r--   1 staff     57 Dec  6 22:08 makefile
